@@ -8,11 +8,6 @@
 <a href="https://open.spotify.com/user/31bnszuxfqcbo4wlo47pgwyyhr4u?si=b33b58bca6c64e23" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"</a>
  </div>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=japacami&show_icons=true&count_private=true&hide_border=true&title_color=CFA9FE&icon_color=EA9148&text_color=c9d1d9&bg_color=0d1117" alt="Camila Sato github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=japacami&layout=compact&hide_border=true&title_color=CFA9FE&text_color=ff91a4&bg_color=0d1117" />
-</div>
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=japacami&bg_color=000000&color=cfa9fe&line=5d008f&point=ea9148&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br />
